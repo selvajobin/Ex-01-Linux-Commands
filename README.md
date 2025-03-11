@@ -1,4 +1,7 @@
 # Ex-01-Linux-Commands
+## NAME :ABISHEK S
+# REG NO :212224240003
+
 
 
 ## Aim:
