@@ -1,6 +1,6 @@
 # Ex-01-Linux-Commands
-## NAME :ABISHEK S
-## REG NO :212224240003
+## NAME :Selva Jobin S
+## REG NO :212223220102
 
 
 
